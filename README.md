@@ -1,1 +1,6 @@
-# Steal_the_Can_(RRT_Algorithm)
+# Theft
+
+##About the project
+
+##About the environment
+
