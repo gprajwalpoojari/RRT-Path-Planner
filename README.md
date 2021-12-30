@@ -27,8 +27,17 @@ Here is an animation of the static plot:
 
 https://user-images.githubusercontent.com/53962958/147785491-2f537f07-3f54-4ce8-91b9-e16332a414d8.mp4
 
-Here is the animation:
+Here is the example simulation:
+```
+python main.py
+```
 
 https://user-images.githubusercontent.com/53962958/147785510-2c2f6f07-ef90-4ce8-8735-7a600872d167.mp4
+
+## References
+
+* Steven M. LaValle. Planning Algorithms. Cambridge University Press, May 2006.
+9780521862059. URL http://lavalle.pl/planning/.
+* https://canvas.wpi.edu
 
 
