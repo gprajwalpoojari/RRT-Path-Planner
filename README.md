@@ -10,7 +10,7 @@ a diameter of 52 mm and height of 122 mm. The main chamber of the vending machin
 
 ## Planners used
 
-The above project has been implemented using the RRT Algorithm. Following are the path figures planned by the algorithm:
+The above project has been implemented using the RRT Algorithm. Following is the graph plot from the RRT Planner:
 
 ![RRT_figure_1](https://user-images.githubusercontent.com/53962958/147785281-67df6eff-bd5f-4a06-b090-efe7f66d5308.png)
 
@@ -18,19 +18,16 @@ The above project has been implemented using the RRT Algorithm. Following are th
 
 ![RRT_figure_3](https://user-images.githubusercontent.com/53962958/147785298-b44c2cf0-11cf-4a74-aca0-fd5e235b2c80.png)
 
-
+Following are the images of the final path:
 ![path_figure_1](https://user-images.githubusercontent.com/53962958/147785244-ed6e3101-d88c-430b-a206-6d992f7fe97d.png)
 ![path_figure_2](https://user-images.githubusercontent.com/53962958/147785248-432d9c2f-c7cf-4470-8fa7-3511a161f8a0.png)
 ![path_figure_3](https://user-images.githubusercontent.com/53962958/147785254-7b49e179-8f25-44f8-a2e4-72c81288e87a.png)
 
-![static_plot_1](https://user-images.githubusercontent.com/53962958/147785308-b24f7dc5-bb78-465a-8d2a-6c8ff6a7c8cb.png)
-![static_plot_2](https://user-images.githubusercontent.com/53962958/147785312-693ad36c-aaa0-4dee-bd00-70397d508d21.png)
-![static_plot_3](https://user-images.githubusercontent.com/53962958/147785315-0560a23a-ec89-4f8e-9303-c4a6d97f7cb0.png)
-
+Here is an animation of the static plot:
 
 https://user-images.githubusercontent.com/53962958/147785491-2f537f07-3f54-4ce8-91b9-e16332a414d8.mp4
 
-
+Here is the animation:
 https://user-images.githubusercontent.com/53962958/147785510-2c2f6f07-ef90-4ce8-8735-7a600872d167.mp4
 
 
