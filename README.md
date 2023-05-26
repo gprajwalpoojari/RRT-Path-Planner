@@ -1,5 +1,11 @@
 # Steal the soda
 
+## Result
+Soda can pose and its trace per iteration:
+
+![rrt](https://github.com/gprajwalpoojari/Steal_the_soda/assets/53962958/00276796-f1c1-4fc5-b8be-3c081686bc2a)
+
+
 ## About the project
 The soda starts trapped inside a chamber in the vending machine, and must be maneuvered past two barriers to get outside. The goal of this project is to implement an RRT type motion planner to steal the soda.
 
