@@ -1,4 +1,4 @@
-# Steal the soda
+# RRT Path Planner
 
 ## Result
 Soda can pose and its trace per iteration:
